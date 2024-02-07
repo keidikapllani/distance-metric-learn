@@ -4,7 +4,6 @@ Script to conduct baseline measurments.
 EE4_68 Pattern Recognition - Imperial College London EEE Dept.
 
 Created on Tue Nov 27 2018
-@authors: Antonio Enas, Keidi Kapllani
 """
 # Import libraries
 import numpy as np
